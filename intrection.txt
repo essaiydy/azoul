@@ -1,0 +1,6 @@
+//creation d'env vertuel
+ python -m venv .venv
+ //activation d'env
+source .venv/Scripts/activate
+//instalion de packages
+pip install -r requirements.txt
